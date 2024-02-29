@@ -1,0 +1,89 @@
+.body{
+    background-color: rgb(184, 105, 105);
+}
+.logo{
+    border-radius: 5cm;
+    box-shadow: 10px 10px 10px;
+    position: absolute;
+}
+.titulo{
+    text-align: center;
+}
+.contenedor{
+    height: 15cm;
+    width: 20cm;
+    background-color: rgb(188, 139, 139);
+    border-color: aliceblue;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 1cm;
+    text-align: center;
+    margin-bottom: 15cm;
+    margin-left: 17cm;
+    box-shadow: 10px 10px 10px;
+    
+    }
+.formulario{
+    text-align: left;
+    margin-left: 0.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.nombre{
+    border-color: brown;
+    border-style: solid;
+    border-width: 3px;
+    width: 15cm;
+    height: 0.5cm;
+    border-radius: 3px;
+}
+.datos{
+    border-color: brown;
+    border-style: solid;
+    border-width: 3px;
+    width: 10cm;
+    height: 0.5cm;
+    border-radius: 3px;
+}
+.tabla{
+    height: 15cm;
+    width: 30cm;
+    background-color: rgb(188, 139, 139);
+    border-color: aliceblue;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 1cm;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -13cm;
+    margin-left: 13cm;
+    position: absolute;
+    box-shadow: 10px 10px 10px;
+
+}
+.table{
+    margin-left: 2.5cm;
+    width: 23cm;
+}
+.thead{
+    background-color: aliceblue;
+    text-align: center;
+    border-color: rgb(184, 132, 132);    
+}
+.tbody{
+    background-color: rgb(222, 162, 162);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);  
+    border-width: 5px;
+}
+.foto{
+    width: 3cm;
+    height: 2.5cm;
+}
+.boton{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+}
